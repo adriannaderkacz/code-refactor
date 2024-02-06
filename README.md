@@ -1,6 +1,7 @@
-# code-refactor
+# Code Refactor
+## Bootcamp: Module 1 Challenge
 
-## The project involves refactoring an exisiting website for a marketing agency to improve its accessibility and ensure it follows coding standards. The challenge provides starter code with specific criteria related to semantic HTML, logical structure, accessible attributes, and code organization. The primary goal is to optimize the website for search engines and improve the overall codebase for lon-term sustainability.
+The project involves refactoring an exisiting website for a marketing agency to improve its accessibility and ensure it follows coding standards. The challenge provides starter code with specific criteria related to semantic HTML, logical structure, accessible attributes, and code organization. The primary goal is to optimize the website for search engines and improve the overall codebase for lon-term sustainability.
 
 The motivation was to address the challenge and refactor existing code to meet specific accessibility standards.
 
